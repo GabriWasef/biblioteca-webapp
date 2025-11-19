@@ -210,7 +210,7 @@ Questo progetto è distribuito sotto licenza MIT. Vedi il file `LICENSE` per mag
 ## 👤 Autore
 
 **Gabriele**
-- GitHub: [@tuo-username](https://github.com/tuo-username)
+- GitHub: [@tuo-username](https://github.com/GabriWasef)
 
 ## 🤝 Contributi
 
@@ -220,10 +220,6 @@ I contributi sono benvenuti! Per favore:
 3. Committa le modifiche (`git commit -m 'Aggiunta NuovaFeature'`)
 4. Pusha sul branch (`git push origin feature/NuovaFeature`)
 5. Apri una Pull Request
-
-## 📞 Supporto
-
-Per problemi o domande, apri una [Issue](https://github.com/tuo-username/biblioteca-webapp/issues) su GitHub.
 
 ---
 
